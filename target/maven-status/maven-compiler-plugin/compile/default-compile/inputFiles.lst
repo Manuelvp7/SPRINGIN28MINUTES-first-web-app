@@ -1,3 +1,2 @@
-/home/manuel/Desktop/UDEMY/SPRING/first-web-application/src/main/java/com/in28minutes/jee/UserValidationService.java
-/home/manuel/Desktop/UDEMY/SPRING/first-web-application/src/main/java/com/in28minutes/jee/LoginServlet.java
-/home/manuel/Desktop/UDEMY/SPRING/first-web-application/src/main/java/com/in28minutes/springmvc/LoginController.java
+/home/manuel/Desktop/UDEMY/SPRING/first-web-application/src/main/java/com/in28minutes/login/LoginController.java
+/home/manuel/Desktop/UDEMY/SPRING/first-web-application/src/main/java/com/in28minutes/login/UserValidationService.java

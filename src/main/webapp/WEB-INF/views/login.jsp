@@ -16,7 +16,7 @@ java.util.Date date = new Date();
 <body>
 	
 	
-	<form action="/spring-mvc/login" method="POST">
+	<form action="/login" method="POST">
 		<p><font color="red"/>${errorMessage}</font></p>
 		Name
 		<input type="text" name="name"/>
